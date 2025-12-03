@@ -1,0 +1,25 @@
+{
+  "name": "madhosoi-theme",
+  "displayName": "MadHosoi Theme",
+  "publisher": "madhosoi",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Madhosoi Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/madhosoi-theme.json"
+      }
+    ]
+  },
+  "categories": ["Themes"],
+  "keywords": ["theme", "dark", "colors"],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madhosoi/madhosoi-theme.git"
+  }
+}
