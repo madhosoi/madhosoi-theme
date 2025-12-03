@@ -4,8 +4,8 @@
 	"type": "dark",
 	"colors": {
 		"actionBar.toggledBackground": "#383a49",
-		"activityBar.activeBorder": "#11a891",
-		"activityBar.background": "#11a891",
+		"activityBar.activeBorder": "#2b2b2b00",
+		"activityBar.background": "#2b2b2b00",
 		"activityBar.border": "#2b2b2b00",
 		"activityBar.foreground": "#d7d7d7",
 		"activityBar.inactiveForeground": "#868686",
