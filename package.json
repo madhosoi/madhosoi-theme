@@ -17,7 +17,7 @@
   },
   "categories": ["Themes"],
   "keywords": ["theme", "dark", "colors"],
-  "icon": "icon.png",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/madhosoi/madhosoi-theme.git"
