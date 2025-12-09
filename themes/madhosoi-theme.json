@@ -51,7 +51,7 @@
 		"errorForeground": "#f85149",
 		"focusBorder": "#FFFFFF00",
 		"foreground": "#cccccc",
-		"git.blame.editorDecorationForeground": "#9dc09e",
+		"git.blame.editorDecorationForeground": "#576757",
 		"gitDecoration.modifiedResourceForeground": "#6095de",
 		"gitDecoration.addedResourceForeground": "#76eb8b",
 		"gitDecoration.deletedResourceForeground": "#c74e39",
