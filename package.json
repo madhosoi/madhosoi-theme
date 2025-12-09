@@ -2,7 +2,7 @@
   "name": "madhosoi-theme",
   "displayName": "MadHosoi Theme",
   "publisher": "madhosoi",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "engines": {
     "vscode": "^1.50.0"
   },
@@ -15,9 +15,20 @@
       }
     ]
   },
-  "categories": ["Themes"],
-  "keywords": ["theme", "dark", "colors"],
+  "author": {
+    "name": "Miguel Angel Diego",
+    "email": "madhosoi@gmail.com"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "colors"
+  ],
   "icon": "images/icon.png",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/madhosoi/madhosoi-theme.git"
